@@ -1,1 +1,13 @@
-# pepeMeltdown.
+commands:
+
++ping
++clear
++clearchat
++pingme
++bttv
++yt
++ffz
++twitchacc
++twitchsearch
++spam
++logs
