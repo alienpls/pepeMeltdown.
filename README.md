@@ -13,3 +13,4 @@ commands:
 +logs
 +twittersearch
 +twitteracc
++say
