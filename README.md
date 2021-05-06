@@ -11,3 +11,5 @@ commands:
 +twitchsearch
 +spam
 +logs
++twittersearch
++twitteracc
