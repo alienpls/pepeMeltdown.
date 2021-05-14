@@ -14,3 +14,5 @@ commands:
 +twittersearch
 +twitteracc
 +say
++google
+
