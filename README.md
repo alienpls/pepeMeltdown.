@@ -15,4 +15,4 @@ commands:
 +twitteracc
 +say
 +google
-
++dick
